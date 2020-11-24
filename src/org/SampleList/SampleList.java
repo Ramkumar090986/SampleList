@@ -14,6 +14,7 @@ public class SampleList {
 		li.add(true);
 		li.add(11);
 		li.add("ram");
+		li.add(90);
 		System.out.println(li);
 		//to get the size of particular list
 		System.out.println("Size of List:");
