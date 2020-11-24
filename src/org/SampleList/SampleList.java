@@ -39,6 +39,7 @@ public class SampleList {
 		int t2=li.indexOf(100);
 		System.out.println(t2);
 		li.add(100);
+		li.add(250);
 		System.out.println(li);
 		//to find the last index
 		int t3=li.lastIndexOf(100);
